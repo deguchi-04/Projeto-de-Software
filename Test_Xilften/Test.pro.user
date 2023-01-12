@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 6.0.1, 2022-01-13T22:18:18. -->
+<!-- Written by QtCreator 6.0.1, 2022-01-14T00:27:09. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -68,8 +68,19 @@
     <value type="bool" key="AutoTest.Framework.QtTest">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="AutoTest.CheckStates">
-    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/Test/tst_testxilften.cpp:TestXilften">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/Test/tst_testxilften.cpp:test_case1">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:TestXilften">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:initTestCase">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:testMovCountRate">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:testMovInsert">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:testMovRate">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:testTopTen">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:test_DB_isOpen">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:test_Donated">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:test_LogIn">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:test_Log_Admin">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:test_Reg">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/Victoria Miyuki/Documents/xilften/tst_testxilften.cpp:test_SearchMov">Checked</value>
    </valuemap>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
@@ -238,8 +249,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Victoria Miyuki/Documents/Test/Test.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Victoria Miyuki/Documents/Test/Test.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Test2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Victoria Miyuki/Documents/xilften/Test.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Victoria Miyuki/Documents/xilften/Test.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
